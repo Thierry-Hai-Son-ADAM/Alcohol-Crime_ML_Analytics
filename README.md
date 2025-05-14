@@ -8,6 +8,7 @@ This project is a Python pipeline that examines the relationship between per-cap
 ├── AlcoHomicide-ML.ipynb                # Main Colab/Jupyter notebook with analysis code
 ├── Papier de Recherche - Alcool et Homicides.pdf   # Final research paper in French language (Thierry Hai Son ADAM)
 ├── Calcul Excel - Rapport Statistiques.xlsx         # Initial Excel statistics
+├── Base de données - Rapport Statistiques.csv        # Database used for the paper
 └── README.md                             # Project overview and instructions
 ```
 
